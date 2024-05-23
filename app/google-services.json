@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686178145411",
+    "project_id": "userregistration-fb26e",
+    "storage_bucket": "userregistration-fb26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686178145411:android:d5e4e9f42b2674108577b6",
+        "android_client_info": {
+          "package_name": "com.example.userregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoll4GpxQ3jVegxgYH7UFyHlKZ39U1vw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
